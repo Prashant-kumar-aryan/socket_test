@@ -1,0 +1,13 @@
+socket .io
+    it is a library for websocket 
+websocket-
+    it is a communication protocol similar to http smtp smtp
+
+http            client server
+                req    res  (simplex)
+websocket       two way (duplex)
+
+
+
+
+.
